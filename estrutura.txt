@@ -1,0 +1,5 @@
+ideia: app que monta marmitas
+
+1) adiciona alimentos
+2) monta refeições para uma semana com meta de calorias
+3) lista de compras
